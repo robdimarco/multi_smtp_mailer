@@ -1,0 +1,14 @@
+AllCops:
+  Includes:
+    - Rakefile
+LineLength:
+  Enabled: true
+  Max: 120
+Documentation:
+  Enabled: false
+AlignParameters:
+  Enabled: false
+MethodLength:
+  Max: 30
+LineContinuation:
+  Enabled: false
